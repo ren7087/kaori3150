@@ -1,0 +1,30 @@
+{
+  "name": "next_graphql_prisma_perfume_kane",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "@prisma/client": "4.5.0",
+    "apollo-server-micro": "^3.11.1",
+    "graphql": "^16.6.0",
+    "micro": "^9.4.1",
+    "next": "13.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.8",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.2",
+    "prisma": "^4.5.0",
+    "typescript": "4.8.4"
+  }
+}
